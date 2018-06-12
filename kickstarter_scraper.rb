@@ -22,8 +22,7 @@ def create_project_hash
    }
 
   end
-
-  post_hash
+  projects
 end
 
 
